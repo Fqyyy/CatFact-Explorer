@@ -14,6 +14,10 @@ A simple Python application to explore fascinating cat facts with a sleek, moder
    git clone https://github.com/yourusername/CatFact-Explorer.git
    cd CatFact-Explorer
    ```
+3. **Install requirements**
+    ```bash
+    pip install -r requirements.txt
+    ```
 
 3. **Run the Application**:
    ```bash
