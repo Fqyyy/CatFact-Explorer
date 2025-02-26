@@ -19,7 +19,7 @@ A simple Python application to explore fascinating cat facts with a sleek, moder
     pip install -r requirements.txt
     ```
 
-3. **Run the Application**:
+4. **Run the Application**:
    ```bash
    python cat.py
    ```
