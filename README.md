@@ -11,7 +11,7 @@ A simple Python application to explore fascinating cat facts with a sleek, moder
 
 2. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/CatFact-Explorer.git
+   git clone https://github.com/Fqyyy/CatFact-Explorer.git
    cd CatFact-Explorer
    ```
 3. **Install requirements**
