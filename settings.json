@@ -1,0 +1,30 @@
+{
+    "colors": {
+        "background": "#2B2A33",
+        "accent": "#4B3F72",
+        "button": "#5C4D94",
+        "button_hover": "#6E5DB6",
+        "text": "#FFFFFF"
+    },
+    "window": {
+        "width": 450,
+        "height": 550,
+        "title": "Cat Fact Generator",
+        "resizable": false
+    },
+    "fonts": {
+        "title": ["Arial", 20, "bold"],
+        "fact": ["Arial", 12],
+        "button": ["Arial", 12, "bold"],
+        "quit_button": ["Arial", 10]
+    },
+    "padding": {
+        "title": 20,
+        "fact_frame": 20,
+        "button": 20,
+        "quit_button": 10
+    },
+    "api": {
+        "url": "https://catfact.ninja/fact"
+    }
+}
